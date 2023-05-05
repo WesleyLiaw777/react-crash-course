@@ -6,7 +6,7 @@ import Contact from './pages/Contact'
 import Nav from './components/Nav'
 import Users from './pages/Users';
 
-function App() {
+function App() { 
 
   return (
     <Router>
